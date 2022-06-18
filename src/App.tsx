@@ -1,6 +1,6 @@
-import clouds from "/src/img/clouds.png"
-import mario from "/src/img/mario.gif"
-import pipe from "/src/img/pipe.png"
+import clouds from "./img/clouds.png"
+import mario from "./img/mario.gif"
+import pipe from "./img/pipe.png"
 import './App.css'
 
 function App() {
